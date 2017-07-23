@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "edm"
   spec.version       = Edm::VERSION
   spec.authors       = ["imidsac"]
-  spec.email         = ["imidsac@gmail.fr"]
+  spec.email         = ["imidsac@gmail.com"]
 
   spec.summary       = %q{Edm.}
   spec.description   = %q{A ruby library for edm.}
