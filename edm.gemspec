@@ -10,8 +10,8 @@ Gem::Specification.new do |spec|
   spec.email         = ["imidsac@gmail.fr"]
 
   spec.summary       = %q{Edm.}
-  spec.description   = %q{Ruby library for edm.}
-  spec.homepage      = "https://github.com/imidsac/edm"
+  spec.description   = %q{A ruby library for edm.}
+  spec.homepage      = "https://github.com/MALINUSE/edm"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
